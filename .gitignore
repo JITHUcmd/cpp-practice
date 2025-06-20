@@ -1,0 +1,11 @@
+# Ignore IDE folders
+.idea/
+
+# Ignore compiled C++ executables
+*.exe
+
+# Optional: temporary/backup files
+*.obj
+*.o
+*.log
+*.tmp
