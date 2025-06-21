@@ -3,6 +3,7 @@
 
 # Ignore compiled C++ executables
 *.exe
+*.h
 
 # Optional: temporary/backup files
 *.obj
