@@ -18,8 +18,7 @@ This is part of my personal journey to crack software internships at Google/Micr
 - 🧠 100+ LeetCode/GFG problems (target)
 
 ## 👨‍💻 Author
-**Sreejith M**  
-Aspiring Intern @ Google / Microsoft (BTech, ECE)
+**Sreejith M** 
 
 ---
 
